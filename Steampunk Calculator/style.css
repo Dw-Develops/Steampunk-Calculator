@@ -1,0 +1,85 @@
+body {
+  border: 8px solid black;
+ 
+  width: 250px;
+  height: 100%;
+  border-radius: 25px;
+  box-shadow: 4px 4px 4px 4px  #f2510b;
+  margin: 50px auto;
+  
+  
+  
+  background-image: url('http://i67.tinypic.com/1gswz.jpg');
+ 
+}
+
+#calculator {
+  font-family: 'Rakkas', cursive;
+  background: silver;
+  border-radius: 25px;
+  background-image:
+    url('http://i68.tinypic.com/fnbfyc.jpg');
+	width: 250;
+	height: 510px;
+  
+}
+#history-value {
+  background-color: black;
+  border: 3px solid silver;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  color: #83756C;
+  text-align: right, top;
+  height: 35px;
+  width: 210px;
+  font-size: 1.5em;
+  margin-top 8px;
+
+	}
+	
+
+h1{
+  
+  font-size: 25px;
+  color: #D1984E;
+}
+
+#empty {
+	
+}
+.textbox{
+  background-color: black;
+  border: 3px solid silver;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  color: #D1984E;
+  text-align: right;
+  height: 50px;
+  width: 210px;
+  font-size: 3.2em;
+}
+h2  {
+  height: 40px;
+  width: 200px;
+  background-image: url('http://i66.tinypic.com/xf9k5x.jpg');
+}
+
+button {
+  color: #f2510b;
+  font-size: 20px;
+  background-color: #f2510b;
+  background-image:
+    url('http://i63.tinypic.com/2961zya.jpg');
+  width: 45px;
+  height: 45px;
+  padding-bottom: 15px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  border-radius: 25px;
+  box-shadow: 4px 4px 4px black;
+  outline: none;
+
+       
+}
