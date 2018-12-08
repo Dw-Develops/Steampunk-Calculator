@@ -19,24 +19,44 @@ body {
   border-radius: 25px;
   background-image:
     url('http://i68.tinypic.com/fnbfyc.jpg');
+	width: 250;
+	height: 510px;
   
 }
+#history-value {
+  background-color: black;
+  border: 3px solid silver;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+  color: #83756C;
+  text-align: right, top;
+  height: 35px;
+  width: 210px;
+  font-size: 1.5em;
+  margin-top 8px;
+
+	}
+	
+
 h1{
   
   font-size: 25px;
-  color: #ffd11a;
+  color: #D1984E;
 }
 
+#empty {
+	
+}
 .textbox{
   background-color: black;
   border: 3px solid silver;
   border-radius: 10px;
   box-shadow: 2px 2px 2px black;
-  color: #f2510b;
+  color: #D1984E;
   text-align: right;
   height: 50px;
   width: 210px;
-  font-size: 2.5em;
+  font-size: 3.2em;
 }
 h2  {
   height: 40px;
